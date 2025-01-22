@@ -1,6 +1,6 @@
 # Instagram Login Page Clone
 
-This project is a simple clone of Instagram's login page, created as part of a [YouTube tutorial](#) to practice front-end development skills. The goal is to recreate the look and feel of Instagram's login page using HTML and CSS, while maintaining responsive design principles.
+This project is a simple clone of Instagram's login page, created as part of a YouTube tutorial to practice front-end development skills. The goal is to recreate the look and feel of Instagram's login page using HTML and CSS, while maintaining responsive design principles.
 
 ## Features
 
@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-  https://github.com/ezeigboemmanuel/instagram_login_page.git
+      https://github.com/ezeigboemmanuel/instagram_login_page.git
    ```
 2. Navigate to the project folder:
    ```bash
